@@ -12,4 +12,6 @@ FurryMuckUI est un projet créé avec un ami (Trekeln), notre objectif est de do
 
  - Devenir partenaire avec FurryMUCK.
 
+ - MAKE MONEY
+
 ![FurryMUCK UI logo](https://media.discordapp.net/attachments/933672521058889798/935954428215844964/logomuck.png?width=960&height=392)
