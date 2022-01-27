@@ -1,0 +1,25 @@
+{
+  "name": "furrymuck.ui",
+  "version": "0.0.1",
+  "description": "A cool UI for furryMUCK",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "MUCK",
+    "FURRY"
+  ],
+  "author": "Trekeln, Léo Fiorellini (lol218)",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.7",
+    "electron-nightly": "^18.0.0-nightly.20220125"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "socket.io": "^4.4.1"
+  }
+}

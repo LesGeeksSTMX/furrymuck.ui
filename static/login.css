@@ -1,0 +1,38 @@
+@font-face {
+    font-family: freestyling-centipede;
+    src: url('http://localhost:3000/static/fonts/freestylingcentipede.ttf');
+}
+
+body {
+    background-image: url('http://localhost:3000/static/images/backlogin.jpg');
+    background-position: center;
+    background-origin: border-box;
+    background-repeat: no-repeat;
+}
+
+.placeholder {
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 20%;
+    border-spacing: 10px;
+    transition: 0.3s;
+    border-radius: 5px
+}
+.placeholder:hover {
+    background-color: #212230;
+    opacity: 75%;
+}
+
+.form {
+    position: relative;
+    left: 5%;
+    top: 15%
+}
+
+#down {
+    bottom: 0;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+}
